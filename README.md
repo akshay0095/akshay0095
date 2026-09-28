@@ -63,5 +63,5 @@ I'm a Senior Systems Engineer with 7+ years of experience building and operating
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaypradeep95&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay0095&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
